@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Francesco Galassi's web page">
+<meta name="keywords" content="Francegala,Francesco,Galassi,Portfolio,CV">
+<meta name="author" content="Francesco Galassi">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="./css/defaultIndexStyle.css">
+<link rel="stylesheet" href="./css/diamonds.css">
+<title>Francesco Galassi Website</title>
+<!--
+
+		Hello there!
+
+		Nice to see you. I didn't expect you here and
+		I'm sorry, there is no cake.
+
+		Feel free to look and learn,
+		but please don't steal the whole thing.
+
+		You can find the source of this page on GitHub:
+		https://github.com/pichfl/florianpichler-de
+
+		Send me a message if you have questions.
+
+		Sincerely,
+		Florian
+
+	-->
+</head>
+<body>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+  <div class="diamond-grid">
+
+    <div class="item">
+      <a href="./curriculum/CVFrancescoGalassi.html">
+      <img alt="Curriculum Vitae" src="./img/cv.jpg"></a>
+    </div>
+
+     <div class="item">
+       <a href="./portfolio/index.html">
+       <img alt="Portfolio" src="./img/pf.jpg"></a>
+      </div>
+
+      <div class="item">
+        <a href="./bootstrepres ume/index.html">
+        <img alt="W3Schools" src="./img/bg.jpg"></a>
+       </div>
+
+  </div>
+
+
+  <script  src="https://code.jquery.com/jquery-3.3.1.js"></script>
+  <script  src="./javascript/jquery.diamonds.js"></script>
+  <script type="text/javascript">
+  $(".diamond-grid").diamonds({
+      size : 300, // Size of diamonds in pixels. Both width and height.
+      gap : 5, // Pixels between each square.
+      hideIncompleteRow : false, // Hide last row if there are not enough items to fill it completely.
+      autoRedraw : true, // Auto redraw diamonds when it detects resizing.
+      itemSelector : ".item" // the css selector to use to select diamonds-items.
+  });
+  </script>
+
+</body>
+</html>
