@@ -1,14 +1,42 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
-<meta charset="UTF-8">
-<meta name="description" content="Francesco Galassi's web page">
-<meta name="keywords" content="Francegala,Francesco,Galassi,Portfolio,CV">
-<meta name="author" content="Francesco Galassi">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="./css/defaultIndexStyle.css">
-<link rel="stylesheet" href="./css/diamonds.css">
-<title>Francesco Galassi Website</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Francesco Galassi's web page">
+    <meta name="keywords" content="Francegala,Francesco,Galassi,Portfolio,CV">
+    <meta name="author" content="Francesco Galassi">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Francesco Galassi Website</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/fonts/material-icons.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter:400,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700">
+    <link rel="stylesheet" href="assets/css/Article-Clean.css">
+    <link rel="stylesheet" href="assets/css/Contact-Form-Clean.css">
+    <link rel="stylesheet" href="assets/css/Features-Blue.css">
+    <link rel="stylesheet" href="assets/css/Header-Blue.css">
+    <link rel="stylesheet" href="assets/css/Header-Dark.css">
+    <link rel="stylesheet" href="assets/css/Highlight-Phone.css">
+    <link rel="stylesheet" href="assets/css/Navigation-with-Search.css">
+    <link rel="stylesheet" href="assets/css/Social-Icons.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <style>
+.box{
+    display: none;
+    width: 100%;
+}
+
+a:hover + .box,.box:hover{
+    display: block;
+    position: relative;
+    z-index: 100;
+}
+</style>
+</head>
 <!--
 
 		Hello there!
@@ -19,58 +47,167 @@
 		Feel free to look and learn,
 		but please don't steal the whole thing.
 
-		You can find the source of this page on GitHub:
-		https://github.com/pichfl/florianpichler-de
-
 		Send me a message if you have questions.
 
 		Sincerely,
-		Florian
+		Francesco :)
 
 	-->
-</head>
 <body>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-  <div class="diamond-grid">
-
-    <div class="item">
-      <a href="./curriculum/CVFrancescoGalassi.html">
-      <img alt="Curriculum Vitae" src="./img/cv.jpg"></a>
+    <div></div>
+    <div>
+        <div class="header-dark"><nav class="navbar navbar-dark navbar-expand-md navigation-clean-search">
+    <div class="container"><a href="" class="navbar-brand">Francesco Galassi Portfolio</a><button data-toggle="collapse" data-target="#navcol-1" class="navbar-toggler"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse"
+            id="navcol-1">
+            <ul class="nav navbar-nav">
+                <li role="presentation" class="nav-item"><a href="#contact" class="nav-link">Contact me</a></li>
+                <li class="dropdown"><a data-toggle="dropdown" aria-expanded="false" href="#" class="dropdown-toggle nav-link dropdown-toggle">Dropdown</a>
+                    <div role="menu" class="dropdown-menu"><a role="presentation" href="#curriculi" class="dropdown-item">Curriculum</a><a role="presentation" href="#pskills" class="dropdown-item">Skills portfolio</a><a role="presentation" href="#projects" class="dropdown-item">Projects</a></div>
+                </li>
+            </ul>
+            <form target="_self" class="form-inline mr-auto">
+                <div class="form-group"><label for="search-field"></label></div>
+            </form><span class="navbar-text"></span></div>
     </div>
-
-     <div class="item">
-       <a href="./portfolio/index.html">
-       <img alt="Portfolio" src="./img/pf.jpg"></a>
+</nav>
+            <div class="container hero">
+                <div class="row">
+                    <div class="col-md-8 offset-md-2">
+                        <h1 class="text-center" id ="curriculi">Something about me &nbsp;&nbsp;
+                          <button class="btn btn-primary justify-content-center align-items-center align-content-center align-self-center fa icon ion-briefcase" type="button" onclick="myFunction()"></button>&nbsp;&nbsp;
+                          <button class="btn btn-primary justify-content-center align-items-center align-content-center align-self-center fa fa-globe icon" type="button" onclick="myFunction()"></button></h1>
+                          <div id ="europass" style="display: none"><iframe src="https://drive.google.com/file/d/1gSI74jwQFvZLMnqQ5_3HSSLWzwXjy61x/preview" width="100%" height="500"></iframe>
       </div>
+                          <div id ="international" ><iframe src="https://drive.google.com/file/d/1l5TOqI9l9ta1qvdBJcsk78u53r7sojZK/preview" width="100%" height="500"></iframe>
+</div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="highlight-phone">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="intro"><h2 id="pskills">Portfolio Skills</h2>
+                        <p>Skills acquired during all my years of studies.</p><a class="btn btn-primary" role="button" href="https://francegala.github.io/portfolio/index.html">Go to the portfolio</a></div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="d-none d-md-block iphone-mockup"><img src="assets/img/iphone.svg" class="device"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="features-blue">
+        <div class="container">
+            <div class="intro"><h2 class="text-center" id="projects">Projects</h2>
+                <p class="text-center">Here you can find some of my projects.</p>
+            </div>
+            <div class="row features"><div class="col-sm-6 col-md-4 item"><i class="fa fa-gift icon"></i>
+    <a href="https://www.zibaldonegiocattoli.it/" style="color: inherit;">
+    <h3 class="name">Zibaldone Giocattoli</h3>
+    <p class="description">Ecommerce for an Italian toys shop.<br /></p>
+    </a><div class="box">
+  <iframe src="https://www.zibaldonegiocattoli.it" width = "500px" height = "500px"></iframe></div>
+</div>
+<div class="col-sm-6 col-md-4 item " data-toggle="modal" data-target="#UnityModal"><i class="material-icons icon">devices</i>
+    <a href="" style="color: inherit;" data-toggle="modal" data-target="#UnityModal">
 
-      <div class="item">
-        <a href="./bootstrepres ume/index.html">
-        <img alt="W3Schools" src="./img/bg.jpg"></a>
-       </div>
+    <h3 class="name">Unity Project</h3>
+        <p class="description">AR App for my High School Thesis (research project) .<br /><br /></p></a>
+</div>
+<div class="col-sm-6 col-md-4 item"><i class="fa fa-pencil icon"></i>
+    <a href="https://drive.google.com/open?id=1B0nAbwMgQsNdjdQyRbmomDO_5wEcUWGN" style="color: inherit;">
+    <h3 class="name">Unity 3D Exercises</h3>
+    <p class="description">To boost my confidence and my skills, I developed mini games using as starting point Unity 3D tutorials.</p>
+    </a>
+</div><div class="col-sm-6 col-md-4 item"><i class="fa fa-code icon"></i>
+        <a href="https://drive.google.com/open?id=18xqweXaMhid-PuwrhS0wVKrqsfZfwrO6" style="color: inherit;">
+    <h3 class="name">Other Programming Languages Portfolio</h3>
+    <p class="description">Some Examples of other programs.</p>
+    </a>
+</div><div class="col-sm-6 col-md-4 item"><i class="fa fa-gamepad icon"></i>
+    <h3 class="name">Unity 3D AR Minigame</h3>
+    <p class="description">Before starting the AR Project for my High School Final Exam, I practiced creating this mingame using AR.</p>
+</div><!--div class="col-sm-6 col-md-4 item"><i class="fa fa-phone icon"></i>
+    <h3 class="name">Mobile-first</h3>
+    <p class="description">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est.</p>
+</div--></div>
+        </div>
+    </div>
+    <div class="social-icons"><a href="#"><a href="mailto:francescogalassimobile@gmail.com" id="contact">
+<i class="icon ion-at"></i>
+</a><a href="https://github.com/Francegala">
+<i class="icon ion-social-github"></i></a></a><a href="#"><a href="https://www.linkedin.com/in/francescogalassi/">
+<i class="icon ion-social-linkedin"></i>
+</a></a><a href="#"><a href="tel:+447818712753">
+<i class="icon ion-social-whatsapp-outline"></i>
+</a>
+</a><a href="#"></a><div class="modal fade" id="UnityModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <strong class="modal-title">High School Thesis Project:<br />La fusione dell'intelligenza umana ed artificiale: i nuovi orizzonti della tecnologia nella visionaria proposta di Elon Musk</strong><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button></div>
+            <div class="modal-body">
+ <p>During the last year of High School I started learning C# to use it with Unity 3D.
+For the final exam, as independent research project to fulfill my graduation requirement I proposed an AR App developed using Vuforia.
+The main topic of my thesis was an analysis of some aspects of the evolution of humanity using technology analyzing the vision of Elon Musk.It talks about the challenges Elon musk is facing with his companies (Tesla, Space X, Neuralink, OpenAI) exploring all the potential we have with these new technologies.
+The app I developed works by scanning the pages of my writing as markers, it shows photo, video and multimedia content as additional content for the paper.
+The thesis is completely in Italian as I graduated from high school in Italy with a grade of 95/100.</p>
+<strong>Why an AR App?<br/>First Experience</strong>
+<p>I discovered the fascinating world of Augmented Reality during my working experience at Red Frog Digital (Salford).
+During those weeks I took my first steps in developing apps. Thanks to my mentor, I started learning principles of programming using C# and basics of design and development using Unity 3D. Then I continue improving my skills following online tutorials in order to reach such a confidence to create my first AR APP.</p>
+<strong>The Potential for Augmented Reality </strong>
+<p>Augmented Reality apps have a huge potential but they aren't still well known or developed. AR is a new technology that could be used in infinite ways e.g. for shopping(IKEA AR Catalogue, Furniture Visualizer, IBM Shopping App), gaming (Pokemon Go and similar games), navigation system for the drivers.
+Even using a simple app that shows multimedia content as support is really useful to make a paper more interactive and easy to understand.<a href="https://www.fastcompany.com/3035856/why-were-more-likely-to-remember-content-with-images-and-video-infogr"> Studies </a>say that people are more likely to remember content with images and video rather than text. So readers will learn the content faster and in a better way going more in deep adding details in a non boring way.</p>
+<strong>How to use the App</strong>
+<p><a href="https://drive.google.com/open?id=1rV7O3BJ4RTVrDHtIjfdWQ7DHPn03ylyU">The project contains two folders,</a> one containing the app (.apk, Android only) alongside the thesis (.pdf) used as a marker and the other containing the source code of the Unity3D project.
+To use the app ("tesina_Galassi.apk"), you'll have to install it first, so download it and then open it.</p>
+<p>When opening the app to install it, your phone would warn you that it is blocking the installation of an app from an unknown source:</p>
+![](/install/install1.png)
+<p>
+Do not worry at all, the app is 100% virus safe and the only thing you have to do is allow installation of non official apps goinf to the security settings of your phone:
+</p>
+![](/install/install2.png)
+<p>
+Than the installation can go on :
+</p>
+![](/install/install3.png)
+![](/install/install4.png)
+![](/install/install5.png)
+<p>
+Once installed the app will use your external camera to look for a marker and when found using the thesis pages,
+</p>
+![](/install/install6.png)
+<p>
+The content is displayed:
+</p>
+![](/install/install7.png)
 
-  </div>
-
-
-  <script  src="https://code.jquery.com/jquery-3.3.1.js"></script>
-  <script  src="./javascript/jquery.diamonds.js"></script>
-  <script type="text/javascript">
-  $(".diamond-grid").diamonds({
-      size : 300, // Size of diamonds in pixels. Both width and height.
-      gap : 5, // Pixels between each square.
-      hideIncompleteRow : false, // Hide last row if there are not enough items to fill it completely.
-      autoRedraw : true, // Auto redraw diamonds when it detects resizing.
-      itemSelector : ".item" // the css selector to use to select diamonds-items.
-  });
-  </script>
-	
-<!--  <h1>SITO IN ALLESTIMENTO</h1>-->
+            </div>
+            <div class="modal-footer"><button class="btn btn-light" type="button" data-dismiss="modal">Close</button><button class="btn btn-primary" type="button">Save</button></div>
+        </div>
+    </div>
+</div></div>
+    <script
+        src="assets/js/jquery.min.js"></script>
+        <script src="assets/bootstrap/js/bootstrap.min.js"></script>
 </body>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("international");
+  var y = document.getElementById("europass");
+
+  if (x.style.display === "none") {
+    y.style.display = "none";
+    x.style.display = "block";
+
+  }else{
+    x.style.display = "none";
+    y.style.display = "block";
+  }
+}
+
+</script>
 </html>
