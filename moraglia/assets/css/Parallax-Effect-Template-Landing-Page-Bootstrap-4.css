@@ -71,11 +71,67 @@ body, html {
   top:50%;
   width:100%;
   text-align:center;
+/* For IE css hack */
+   text-align:left\9 /* apply to all ie from 8 and below */
+ *text-align:left;  /* apply to ie 7 and below */
+ _  text-align:left; /* apply to ie 6 and below */
   color:#000;
   font-size:27px;
   letter-spacing:8px;
   text-transform:uppercase;
 }
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+
+  .ptext {
+    position:absolute;
+    top:50%;
+    width:100%;
+    text-align:left;
+  /* For IE css hack */
+     text-align:left\9 /* apply to all ie from 8 and below */
+   *text-align:left;  /* apply to ie 7 and below */
+   _  text-align:left; /* apply to ie 6 and below */
+    color:#000;
+    font-size:27px;
+    letter-spacing:8px;
+    text-transform:uppercase;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .ptext {
+    position:absolute;
+    top:50%;
+    width:100%;
+    text-align:left;
+  /* For IE css hack */
+     text-align:left\9 /* apply to all ie from 8 and below */
+   *text-align:left;  /* apply to ie 7 and below */
+   _  text-align:left; /* apply to ie 6 and below */
+    color:#000;
+    font-size:27px;
+    letter-spacing:8px;
+    text-transform:uppercase;
+  }
+}
+
+@supports (-ms-accelerator:true) {
+  .ptext {
+    position:absolute;
+    top:50%;
+    width:100%;
+    text-align:left;
+  /* For IE css hack */
+     text-align:left\9 /* apply to all ie from 8 and below */
+   *text-align:left;  /* apply to ie 7 and below */
+   _  text-align:left; /* apply to ie 6 and below */
+    color:#000;
+    font-size:27px;
+    letter-spacing:8px;
+    text-transform:uppercase;
+  }
+}
+
 
 .ptext .border {
   background-color:#111;
@@ -104,4 +160,3 @@ body, html {
     padding:50px 30px;
   }
 }
-
