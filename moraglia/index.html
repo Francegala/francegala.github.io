@@ -24,6 +24,16 @@
       </style>
    <![endif]-->
     <style>
+    .box{
+    display: none;
+    width: 100%;
+}
+
+a:hover + .box,.box:hover{
+    display: block;
+    position: relative;
+    z-index: 100;
+}
 table a {
    pointer-events: none;
    cursor: default;
@@ -233,7 +243,10 @@ Questo sito è stato realizzato solo come dimostrazione ed esempio di un possibi
                             genetico.<br /><br /></p>
                     </div>
                     <div class="col-sm">
-                        <div><img src="./img/serre.jpg" /><br /><br /><img src="./img/table.jpg" /><br /><br />La scelta di una caratteristica piuttosto che un’altra è un fatto estremamente delicato e soggettivo, che non può prescindere da un lato dalla conoscenza della fisiologia vegetale e delle tecniche di coltivazione, ma anche dalla conoscenza approfondita delle esigenze e delle aspettative del mercato. L’intuito e la sensibilità dell’ibridatore si devono oggi accompagnare ad approfondite conoscenze scientifiche, economiche e commerciali.
+                        <div><img src="./img/serre.jpg" /><br /><br />
+                          <a href="./img/table.jpg">Tabella 1: Caratteri suscettibili di miglioramento genetico
+                          </a><div class="box"><iframe src="./img/table.jpg" width="500px" height="250px" ></iframe></div>
+                          <br /><br />La scelta di una caratteristica piuttosto che un’altra è un fatto estremamente delicato e soggettivo, che non può prescindere da un lato dalla conoscenza della fisiologia vegetale e delle tecniche di coltivazione, ma anche dalla conoscenza approfondita delle esigenze e delle aspettative del mercato. L’intuito e la sensibilità dell’ibridatore si devono oggi accompagnare ad approfondite conoscenze scientifiche, economiche e commerciali.
         L’azienda agricola Moraglia crea e quindi commercializzazione le proprie varietà, e può quindi trarre dal contatto diretto e continuo con i coltivatori utili indicazioni sui caratteri colturali da migliorare e dal contatto con i mercati nazionali ed internazionali informazioni circa le mode, le preferenze e i gusti del consumatore finale.<br /></div>
                     </div>
                 </div>
@@ -8612,7 +8625,7 @@ Questo sito è stato realizzato solo come dimostrazione ed esempio di un possibi
             <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ottima</font></td>
           </tr>
         </tbody></table>
-</div>  
+</div>
 </div>
       </div>
             <div class="modal-footer"><button class="btn btn-light" type="button" data-dismiss="modal">Chiudi</button></div>
