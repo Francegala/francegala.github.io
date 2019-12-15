@@ -1,0 +1,99 @@
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Merry Christmas</title>
+	<link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="graph.css">
+<link href='http://fonts.googleapis.com/css?family=Arizonia' rel='stylesheet' type='text/css'>
+</head>
+<body>
+
+
+	<div class="bg" >
+		<div class="centerer">
+		<div id="sign"> Wishing you a very Merry Christmas and a happy New Year. <br/> - Francesco  :)<br/></div>
+			<a href="#myDiv" class="button" id="myDiv" >Merry Christmas <br/> &<br/> Happy New Year!</a>
+<div class="tags" style=" visibility: hidden" id="myHidden">
+<div id="add_message"> </div>
+    <div class="tag-container">
+        <div class="tag">
+
+            <div class="tag-side tag-1-side">
+                <div class="tag-1-top"></div>
+                <div class="tag-text tag-1-text">
+                    Best<br />Wishes
+                    <div class="rule-shape rule-red">&starf;</div>
+                </div>
+            </div>
+
+            <div class="tag-side tag-1-side is-back">
+                <div class="tag-1-top"></div>
+                <div class="tag-text tag-1-text">
+			Tanti Auguri!                   
+                    <div class="rule-shape">&starf;</div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="tag-container">
+        <div class="tag">
+
+            <div class="tag-side tag-2-side">
+                <div class="tag-text tag-2-text">
+                    for Happy Holidays
+                    <div class="rule-diagonal"></div>
+                </div>
+            </div>
+
+            <div class="tag-side tag-2-side is-back">
+                <div class="tag-text tag-2-text">                 
+		Buon Natale 
+                    <div class="rule-diagonal"></div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="tag-container">
+        <div class="tag">
+
+            <div class="tag-side tag-3-side">
+                <div class="tag-text tag-3-text">
+		and a wonderful New Year
+                    <div class="rule-shape">&#10052;</div>
+                </div>
+            </div>
+
+            <div class="tag-side tag-3-side is-back">
+                <div class="tag-text tag-3-text">
+Felice Anno Nuovo                    
+                    <div class="rule-shape">&#10052;</div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+		</div>
+	</div>
+
+
+</body>
+<script>
+
+var isIE = !!navigator.userAgent.match(/Trident/g) || !!navigator.userAgent.match(/MSIE/g);
+
+if(isIE){
+ alert("This is optimized for Google Chrome"); 
+}
+
+var elem = document.getElementById("myDiv");
+elem.onclick = function(){elem.parentNode.removeChild(elem);document.getElementById("myHidden").style.visibility = "visible"};
+
+
+</script>
+</html>
