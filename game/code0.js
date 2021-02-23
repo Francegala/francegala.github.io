@@ -11,6 +11,8 @@ gdjs.Level1Code.GDBulletObjects1= [];
 gdjs.Level1Code.GDBulletObjects2= [];
 gdjs.Level1Code.GDShieldObjects1= [];
 gdjs.Level1Code.GDShieldObjects2= [];
+gdjs.Level1Code.GDEnemy_95ShootObjects1= [];
+gdjs.Level1Code.GDEnemy_95ShootObjects2= [];
 
 gdjs.Level1Code.conditionTrue_0 = {val:false};
 gdjs.Level1Code.condition0IsTrue_0 = {val:false};
@@ -24,7 +26,7 @@ gdjs.Level1Code.condition2IsTrue_1 = {val:false};
 gdjs.Level1Code.condition3IsTrue_1 = {val:false};
 
 
-gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.Level1Code.GDEnemyObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.Level1Code.GDEnemyToPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.Level1Code.GDEnemyObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.Level1Code.GDBulletObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.Level1Code.GDEnemyObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.Level1Code.GDShieldObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.Level1Code.GDEnemyToPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.Level1Code.GDBulletObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.Level1Code.GDEnemyToPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.Level1Code.GDShieldObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.Level1Code.GDShieldObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.Level1Code.GDBulletObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.Level1Code.GDBulletObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.Level1Code.GDBulletObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.Level1Code.GDBulletObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.Level1Code.GDPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.Level1Code.GDEnemyObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.Level1Code.GDPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.Level1Code.GDEnemyObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.Level1Code.GDPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.Level1Code.GDEnemyToPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.Level1Code.GDPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.Level1Code.GDEnemyToPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.Level1Code.GDPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.Level1Code.GDEnemyToPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.Level1Code.GDEnemyObjects1});gdjs.Level1Code.eventsList0 = function(runtimeScene) {
+gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.Level1Code.GDEnemyObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.Level1Code.GDEnemyToPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.Level1Code.GDEnemyToPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.Level1Code.GDEnemy_95ShootObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.Level1Code.GDEnemyObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.Level1Code.GDBulletObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.Level1Code.GDEnemyToPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.Level1Code.GDBulletObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.Level1Code.GDEnemy_95ShootObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.Level1Code.GDBulletObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.Level1Code.GDEnemyObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.Level1Code.GDShieldObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.Level1Code.GDEnemyToPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.Level1Code.GDShieldObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.Level1Code.GDEnemy_95ShootObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.Level1Code.GDShieldObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.Level1Code.GDShieldObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.Level1Code.GDBulletObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.Level1Code.GDBulletObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.Level1Code.GDBulletObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.Level1Code.GDBulletObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.Level1Code.GDPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.Level1Code.GDEnemyObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.Level1Code.GDPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.Level1Code.GDEnemyObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.Level1Code.GDPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.Level1Code.GDEnemyToPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.Level1Code.GDPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.Level1Code.GDEnemyToPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.Level1Code.GDPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.Level1Code.GDEnemy_95ShootObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.Level1Code.GDPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.Level1Code.GDEnemy_95ShootObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.Level1Code.GDPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.Level1Code.GDEnemyToPlayerObjects1});gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.Level1Code.GDEnemyObjects1});gdjs.Level1Code.eventsList0 = function(runtimeScene) {
 
 {
 
@@ -39,7 +41,7 @@ gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects = Hashtable.ne
 gdjs.Level1Code.condition0IsTrue_0.val = false;
 gdjs.Level1Code.condition1IsTrue_0.val = false;
 {
-gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 2, "EnemyCreation");
+gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 1, "EnemyCreation");
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 gdjs.Level1Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(1)) != 1;
@@ -60,7 +62,7 @@ gdjs.Level1Code.GDEnemyObjects1.length = 0;
 gdjs.Level1Code.condition0IsTrue_0.val = false;
 gdjs.Level1Code.condition1IsTrue_0.val = false;
 {
-gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 10, "EnemyToPlayerCreation");
+gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 1, "EnemyToPlayerCreation");
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 gdjs.Level1Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(1)) != 1;
@@ -70,6 +72,34 @@ gdjs.Level1Code.GDEnemyToPlayerObjects1.length = 0;
 
 {gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects, gdjs.random(750), -(50), "");
 }{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "EnemyToPlayerCreation");
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("EnemyToPlayer"), gdjs.Level1Code.GDEnemyToPlayerObjects1);
+
+gdjs.Level1Code.condition0IsTrue_0.val = false;
+gdjs.Level1Code.condition1IsTrue_0.val = false;
+gdjs.Level1Code.condition2IsTrue_0.val = false;
+{
+gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 2, "Eshoot");
+}if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
+{
+gdjs.Level1Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(1)) != 1;
+}if ( gdjs.Level1Code.condition1IsTrue_0.val ) {
+{
+gdjs.Level1Code.condition2IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount(gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects) > 0;
+}}
+}
+if (gdjs.Level1Code.condition2IsTrue_0.val) {
+/* Reuse gdjs.Level1Code.GDEnemyToPlayerObjects1 */
+gdjs.Level1Code.GDEnemy_95ShootObjects1.length = 0;
+
+{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemy_9595ShootObjects1Objects, ((( gdjs.Level1Code.GDEnemyToPlayerObjects1.length === 0 ) ? 0 :gdjs.Level1Code.GDEnemyToPlayerObjects1[0].getPointX("")) + 50), ((( gdjs.Level1Code.GDEnemyToPlayerObjects1.length === 0 ) ? 0 :gdjs.Level1Code.GDEnemyToPlayerObjects1[0].getPointY("")) + 50), "");
+}{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "Eshoot");
 }}
 
 }
@@ -92,10 +122,23 @@ gdjs.copyArray(runtimeScene.getObjects("Enemy"), gdjs.Level1Code.GDEnemyObjects1
 
 
 {
+gdjs.copyArray(runtimeScene.getObjects("Enemy_Shoot"), gdjs.Level1Code.GDEnemy_95ShootObjects1);
+{for(var i = 0, len = gdjs.Level1Code.GDEnemy_95ShootObjects1.length ;i < len;++i) {
+    gdjs.Level1Code.GDEnemy_95ShootObjects1[i].addPolarForce(90, 900, 0);
+}
+}}
+
+}
+
+
+{
+
+
+{
 gdjs.copyArray(runtimeScene.getObjects("EnemyToPlayer"), gdjs.Level1Code.GDEnemyToPlayerObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.Level1Code.GDPlayerObjects1);
 {for(var i = 0, len = gdjs.Level1Code.GDEnemyToPlayerObjects1.length ;i < len;++i) {
-    gdjs.Level1Code.GDEnemyToPlayerObjects1[i].addForceTowardObject((gdjs.Level1Code.GDPlayerObjects1.length !== 0 ? gdjs.Level1Code.GDPlayerObjects1[0] : null), 200, 0);
+    gdjs.Level1Code.GDEnemyToPlayerObjects1[i].addForceTowardObject((gdjs.Level1Code.GDPlayerObjects1.length !== 0 ? gdjs.Level1Code.GDPlayerObjects1[0] : null), 400, 0);
 }
 }}
 
@@ -126,32 +169,6 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionT
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("Enemy"), gdjs.Level1Code.GDEnemyObjects1);
-gdjs.copyArray(runtimeScene.getObjects("Shield"), gdjs.Level1Code.GDShieldObjects1);
-
-gdjs.Level1Code.condition0IsTrue_0.val = false;
-{
-gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects, gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShieldObjects1Objects, false, runtimeScene, false);
-}if (gdjs.Level1Code.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("Bullet"), gdjs.Level1Code.GDBulletObjects1);
-/* Reuse gdjs.Level1Code.GDEnemyObjects1 */
-/* Reuse gdjs.Level1Code.GDShieldObjects1 */
-{for(var i = 0, len = gdjs.Level1Code.GDEnemyObjects1.length ;i < len;++i) {
-    gdjs.Level1Code.GDEnemyObjects1[i].deleteFromScene(runtimeScene);
-}
-}{for(var i = 0, len = gdjs.Level1Code.GDBulletObjects1.length ;i < len;++i) {
-    gdjs.Level1Code.GDBulletObjects1[i].deleteFromScene(runtimeScene);
-}
-}{for(var i = 0, len = gdjs.Level1Code.GDShieldObjects1.length ;i < len;++i) {
-    gdjs.Level1Code.GDShieldObjects1[i].deleteFromScene(runtimeScene);
-}
-}}
-
-}
-
-
-{
-
 gdjs.copyArray(runtimeScene.getObjects("Bullet"), gdjs.Level1Code.GDBulletObjects1);
 gdjs.copyArray(runtimeScene.getObjects("EnemyToPlayer"), gdjs.Level1Code.GDEnemyToPlayerObjects1);
 
@@ -174,6 +191,50 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionT
 
 {
 
+gdjs.copyArray(runtimeScene.getObjects("Bullet"), gdjs.Level1Code.GDBulletObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Enemy_Shoot"), gdjs.Level1Code.GDEnemy_95ShootObjects1);
+
+gdjs.Level1Code.condition0IsTrue_0.val = false;
+{
+gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemy_9595ShootObjects1Objects, gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects, false, runtimeScene, false);
+}if (gdjs.Level1Code.condition0IsTrue_0.val) {
+/* Reuse gdjs.Level1Code.GDBulletObjects1 */
+/* Reuse gdjs.Level1Code.GDEnemy_95ShootObjects1 */
+{for(var i = 0, len = gdjs.Level1Code.GDEnemy_95ShootObjects1.length ;i < len;++i) {
+    gdjs.Level1Code.GDEnemy_95ShootObjects1[i].deleteFromScene(runtimeScene);
+}
+}{for(var i = 0, len = gdjs.Level1Code.GDBulletObjects1.length ;i < len;++i) {
+    gdjs.Level1Code.GDBulletObjects1[i].deleteFromScene(runtimeScene);
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Enemy"), gdjs.Level1Code.GDEnemyObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Shield"), gdjs.Level1Code.GDShieldObjects1);
+
+gdjs.Level1Code.condition0IsTrue_0.val = false;
+{
+gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects, gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShieldObjects1Objects, false, runtimeScene, false);
+}if (gdjs.Level1Code.condition0IsTrue_0.val) {
+/* Reuse gdjs.Level1Code.GDEnemyObjects1 */
+/* Reuse gdjs.Level1Code.GDShieldObjects1 */
+{for(var i = 0, len = gdjs.Level1Code.GDEnemyObjects1.length ;i < len;++i) {
+    gdjs.Level1Code.GDEnemyObjects1[i].deleteFromScene(runtimeScene);
+}
+}{for(var i = 0, len = gdjs.Level1Code.GDShieldObjects1.length ;i < len;++i) {
+    gdjs.Level1Code.GDShieldObjects1[i].deleteFromScene(runtimeScene);
+}
+}}
+
+}
+
+
+{
+
 gdjs.copyArray(runtimeScene.getObjects("EnemyToPlayer"), gdjs.Level1Code.GDEnemyToPlayerObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Shield"), gdjs.Level1Code.GDShieldObjects1);
 
@@ -181,14 +242,32 @@ gdjs.Level1Code.condition0IsTrue_0.val = false;
 {
 gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyToPlayerObjects1Objects, gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShieldObjects1Objects, false, runtimeScene, false);
 }if (gdjs.Level1Code.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("Bullet"), gdjs.Level1Code.GDBulletObjects1);
 /* Reuse gdjs.Level1Code.GDEnemyToPlayerObjects1 */
 /* Reuse gdjs.Level1Code.GDShieldObjects1 */
 {for(var i = 0, len = gdjs.Level1Code.GDEnemyToPlayerObjects1.length ;i < len;++i) {
     gdjs.Level1Code.GDEnemyToPlayerObjects1[i].deleteFromScene(runtimeScene);
 }
-}{for(var i = 0, len = gdjs.Level1Code.GDBulletObjects1.length ;i < len;++i) {
-    gdjs.Level1Code.GDBulletObjects1[i].deleteFromScene(runtimeScene);
+}{for(var i = 0, len = gdjs.Level1Code.GDShieldObjects1.length ;i < len;++i) {
+    gdjs.Level1Code.GDShieldObjects1[i].deleteFromScene(runtimeScene);
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Enemy_Shoot"), gdjs.Level1Code.GDEnemy_95ShootObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Shield"), gdjs.Level1Code.GDShieldObjects1);
+
+gdjs.Level1Code.condition0IsTrue_0.val = false;
+{
+gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemy_9595ShootObjects1Objects, gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShieldObjects1Objects, false, runtimeScene, false);
+}if (gdjs.Level1Code.condition0IsTrue_0.val) {
+/* Reuse gdjs.Level1Code.GDEnemy_95ShootObjects1 */
+/* Reuse gdjs.Level1Code.GDShieldObjects1 */
+{for(var i = 0, len = gdjs.Level1Code.GDEnemy_95ShootObjects1.length ;i < len;++i) {
+    gdjs.Level1Code.GDEnemy_95ShootObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Level1Code.GDShieldObjects1.length ;i < len;++i) {
     gdjs.Level1Code.GDShieldObjects1[i].deleteFromScene(runtimeScene);
@@ -219,7 +298,7 @@ gdjs.Level1Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.Level1Code.condition1IsTrue_0.val ) {
 {
 {gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition2IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7788700);
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7854988);
 }
 }}
 }
@@ -229,6 +308,7 @@ gdjs.Level1Code.GDShieldObjects1.length = 0;
 
 {gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDShieldObjects1Objects, (( gdjs.Level1Code.GDPlayerObjects1.length === 0 ) ? 0 :gdjs.Level1Code.GDPlayerObjects1[0].getPointX("")), ((( gdjs.Level1Code.GDPlayerObjects1.length === 0 ) ? 0 :gdjs.Level1Code.GDPlayerObjects1[0].getPointY("")) - 40), "");
 }{runtimeScene.getVariables().getFromIndex(3).sub(1);
+}{gdjs.evtTools.sound.playSound(runtimeScene, "PowerRez9.mp3", false, 5, 1);
 }}
 
 }
@@ -408,7 +488,7 @@ gdjs.Level1Code.GDBulletObjects1.length = 0;
 {gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects, (( gdjs.Level1Code.GDPlayerObjects1.length === 0 ) ? 0 :gdjs.Level1Code.GDPlayerObjects1[0].getPointX("")), (( gdjs.Level1Code.GDPlayerObjects1.length === 0 ) ? 0 :gdjs.Level1Code.GDPlayerObjects1[0].getPointY("")), "");
 }{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "FireRate");
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects, ((( gdjs.Level1Code.GDPlayerObjects1.length === 0 ) ? 0 :gdjs.Level1Code.GDPlayerObjects1[0].getPointX("")) + 90), (( gdjs.Level1Code.GDPlayerObjects1.length === 0 ) ? 0 :gdjs.Level1Code.GDPlayerObjects1[0].getPointY("")), "");
-}{gdjs.evtTools.sound.playSound(runtimeScene, "Laser-Shot.mp3", false, 5, 1);
+}{gdjs.evtTools.sound.playSound(runtimeScene, "Laser-Shot.mp3", false, 2, 1);
 }}
 
 }
@@ -432,7 +512,7 @@ gdjs.Level1Code.GDBulletObjects1.length = 0;
 {gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects, (( gdjs.Level1Code.GDPlayerObjects1.length === 0 ) ? 0 :gdjs.Level1Code.GDPlayerObjects1[0].getPointX("")), (( gdjs.Level1Code.GDPlayerObjects1.length === 0 ) ? 0 :gdjs.Level1Code.GDPlayerObjects1[0].getPointY("")), "");
 }{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "FireRate");
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDBulletObjects1Objects, ((( gdjs.Level1Code.GDPlayerObjects1.length === 0 ) ? 0 :gdjs.Level1Code.GDPlayerObjects1[0].getPointX("")) + 90), (( gdjs.Level1Code.GDPlayerObjects1.length === 0 ) ? 0 :gdjs.Level1Code.GDPlayerObjects1[0].getPointY("")), "");
-}{gdjs.evtTools.sound.playSound(runtimeScene, "Laser-Shot.mp3", false, 5, 1);
+}{gdjs.evtTools.sound.playSound(runtimeScene, "Laser-Shot.mp3", false, 2, 1);
 }}
 
 }
@@ -444,7 +524,7 @@ gdjs.Level1Code.GDBulletObjects1.length = 0;
 {
 gdjs.copyArray(runtimeScene.getObjects("Bullet"), gdjs.Level1Code.GDBulletObjects1);
 {for(var i = 0, len = gdjs.Level1Code.GDBulletObjects1.length ;i < len;++i) {
-    gdjs.Level1Code.GDBulletObjects1[i].addPolarForce(270, 400, 1);
+    gdjs.Level1Code.GDBulletObjects1[i].addPolarForce(270, 50, 1);
 }
 }}
 
@@ -466,6 +546,7 @@ gdjs.Level1Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(0).sub(1);
+}{gdjs.evtTools.sound.playSound(runtimeScene, "Space-Cannon.mp3", false, 10, 1);
 }}
 
 }
@@ -504,6 +585,7 @@ gdjs.Level1Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(0).sub(1);
+}{gdjs.evtTools.sound.playSound(runtimeScene, "Space-Cannon.mp3", false, 10, 1);
 }}
 
 }
@@ -529,6 +611,45 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionT
 
 {
 
+gdjs.copyArray(runtimeScene.getObjects("Enemy_Shoot"), gdjs.Level1Code.GDEnemy_95ShootObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.Level1Code.GDPlayerObjects1);
+
+gdjs.Level1Code.condition0IsTrue_0.val = false;
+gdjs.Level1Code.condition1IsTrue_0.val = false;
+{
+gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDPlayerObjects1Objects, gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemy_9595ShootObjects1Objects, false, runtimeScene, false);
+}if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
+{
+gdjs.Level1Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(0)) != 1;
+}}
+if (gdjs.Level1Code.condition1IsTrue_0.val) {
+{runtimeScene.getGame().getVariables().getFromIndex(0).sub(1);
+}{gdjs.evtTools.sound.playSound(runtimeScene, "Space-Cannon.mp3", false, 10, 1);
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Enemy_Shoot"), gdjs.Level1Code.GDEnemy_95ShootObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.Level1Code.GDPlayerObjects1);
+
+gdjs.Level1Code.condition0IsTrue_0.val = false;
+{
+gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDPlayerObjects1Objects, gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemy_9595ShootObjects1Objects, false, runtimeScene, false);
+}if (gdjs.Level1Code.condition0IsTrue_0.val) {
+/* Reuse gdjs.Level1Code.GDEnemy_95ShootObjects1 */
+{for(var i = 0, len = gdjs.Level1Code.GDEnemy_95ShootObjects1.length ;i < len;++i) {
+    gdjs.Level1Code.GDEnemy_95ShootObjects1[i].deleteFromScene(runtimeScene);
+}
+}}
+
+}
+
+
+{
+
 
 
 }
@@ -541,11 +662,12 @@ gdjs.Level1Code.condition0IsTrue_0.val = false;
 {
 gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 }if (gdjs.Level1Code.condition0IsTrue_0.val) {
-{runtimeScene.getGame().getVariables().getFromIndex(0).setNumber(3);
+{runtimeScene.getGame().getVariables().getFromIndex(0).setNumber(5);
 }{runtimeScene.getVariables().getFromIndex(0).setNumber(0);
 }{runtimeScene.getVariables().getFromIndex(1).setNumber(0);
 }{runtimeScene.getVariables().getFromIndex(2).setNumber(0);
-}{runtimeScene.getVariables().getFromIndex(3).setNumber(2);
+}{runtimeScene.getVariables().getFromIndex(3).setNumber(5);
+}{gdjs.evtTools.sound.playMusic(runtimeScene, "The-Creeping-Blob.mp3", true, 10, 1);
 }}
 
 }
@@ -620,7 +742,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition1IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7806156);
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7875428);
 }
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
@@ -666,26 +788,20 @@ if (gdjs.Level1Code.condition1IsTrue_0.val) {
 
 gdjs.Level1Code.condition0IsTrue_0.val = false;
 gdjs.Level1Code.condition1IsTrue_0.val = false;
-gdjs.Level1Code.condition2IsTrue_0.val = false;
 {
 gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeScene, "r");
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
-gdjs.Level1Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(0)) < 1;
-}if ( gdjs.Level1Code.condition1IsTrue_0.val ) {
-{
-{gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition2IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7808612);
+{gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition1IsTrue_0;
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7877708);
 }
 }}
-}
-if (gdjs.Level1Code.condition2IsTrue_0.val) {
+if (gdjs.Level1Code.condition1IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Bullet"), gdjs.Level1Code.GDBulletObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Enemy"), gdjs.Level1Code.GDEnemyObjects1);
 gdjs.copyArray(runtimeScene.getObjects("EnemyToPlayer"), gdjs.Level1Code.GDEnemyToPlayerObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.Level1Code.GDPlayerObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Shield"), gdjs.Level1Code.GDShieldObjects1);
-gdjs.Level1Code.GDPlayerObjects1.length = 0;
-
 {for(var i = 0, len = gdjs.Level1Code.GDEnemyToPlayerObjects1.length ;i < len;++i) {
     gdjs.Level1Code.GDEnemyToPlayerObjects1[i].deleteFromScene(runtimeScene);
 }
@@ -695,12 +811,18 @@ gdjs.Level1Code.GDPlayerObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Level1Code.GDBulletObjects1.length ;i < len;++i) {
     gdjs.Level1Code.GDBulletObjects1[i].deleteFromScene(runtimeScene);
 }
+}{for(var i = 0, len = gdjs.Level1Code.GDPlayerObjects1.length ;i < len;++i) {
+    gdjs.Level1Code.GDPlayerObjects1[i].deleteFromScene(runtimeScene);
+}
 }{for(var i = 0, len = gdjs.Level1Code.GDShieldObjects1.length ;i < len;++i) {
     gdjs.Level1Code.GDShieldObjects1[i].deleteFromScene(runtimeScene);
 }
-}{runtimeScene.getGame().getVariables().getFromIndex(0).setNumber(3);
-}{runtimeScene.getVariables().getFromIndex(3).setNumber(2);
+}{runtimeScene.getGame().getVariables().getFromIndex(0).setNumber(5);
+}{runtimeScene.getVariables().getFromIndex(3).setNumber(5);
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDPlayerObjects1Objects, 336, 512, "");
+}{runtimeScene.getVariables().getFromIndex(2).setNumber(0);
+}{runtimeScene.getVariables().getFromIndex(0).setNumber(0);
+}{runtimeScene.getVariables().getFromIndex(1).setNumber(0);
 }}
 
 }
@@ -723,7 +845,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition1IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7810948);
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7880636);
 }
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
@@ -743,18 +865,22 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition1IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7811780);
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7881468);
 }
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Enemy"), gdjs.Level1Code.GDEnemyObjects1);
 gdjs.copyArray(runtimeScene.getObjects("EnemyToPlayer"), gdjs.Level1Code.GDEnemyToPlayerObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Enemy_Shoot"), gdjs.Level1Code.GDEnemy_95ShootObjects1);
 {runtimeScene.getVariables().getFromIndex(1).add(1);
 }{for(var i = 0, len = gdjs.Level1Code.GDEnemyObjects1.length ;i < len;++i) {
     gdjs.Level1Code.GDEnemyObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Level1Code.GDEnemyToPlayerObjects1.length ;i < len;++i) {
     gdjs.Level1Code.GDEnemyToPlayerObjects1[i].deleteFromScene(runtimeScene);
+}
+}{for(var i = 0, len = gdjs.Level1Code.GDEnemy_95ShootObjects1.length ;i < len;++i) {
+    gdjs.Level1Code.GDEnemy_95ShootObjects1[i].deleteFromScene(runtimeScene);
 }
 }}
 
@@ -797,7 +923,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition1IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7813772);
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7884236);
 }
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
@@ -819,7 +945,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition1IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7815228);
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7885124);
 }
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
@@ -841,7 +967,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition1IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7816084);
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7886036);
 }
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
@@ -868,6 +994,8 @@ gdjs.Level1Code.GDBulletObjects1.length = 0;
 gdjs.Level1Code.GDBulletObjects2.length = 0;
 gdjs.Level1Code.GDShieldObjects1.length = 0;
 gdjs.Level1Code.GDShieldObjects2.length = 0;
+gdjs.Level1Code.GDEnemy_95ShootObjects1.length = 0;
+gdjs.Level1Code.GDEnemy_95ShootObjects2.length = 0;
 
 gdjs.Level1Code.eventsList0(runtimeScene);
 return;
