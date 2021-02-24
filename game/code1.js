@@ -13,6 +13,8 @@ gdjs.Level1Code.GDShieldObjects1= [];
 gdjs.Level1Code.GDShieldObjects2= [];
 gdjs.Level1Code.GDEnemy_95ShootObjects1= [];
 gdjs.Level1Code.GDEnemy_95ShootObjects2= [];
+gdjs.Level1Code.GDGameOverObjects1= [];
+gdjs.Level1Code.GDGameOverObjects2= [];
 
 gdjs.Level1Code.conditionTrue_0 = {val:false};
 gdjs.Level1Code.condition0IsTrue_0 = {val:false};
@@ -298,7 +300,7 @@ gdjs.Level1Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 }if ( gdjs.Level1Code.condition1IsTrue_0.val ) {
 {
 {gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition2IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7971948);
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7917628);
 }
 }}
 }
@@ -696,6 +698,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 gdjs.copyArray(runtimeScene.getObjects("Bullet"), gdjs.Level1Code.GDBulletObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Enemy"), gdjs.Level1Code.GDEnemyObjects1);
 gdjs.copyArray(runtimeScene.getObjects("EnemyToPlayer"), gdjs.Level1Code.GDEnemyToPlayerObjects1);
+gdjs.copyArray(runtimeScene.getObjects("GameOver"), gdjs.Level1Code.GDGameOverObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Player"), gdjs.Level1Code.GDPlayerObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Shield"), gdjs.Level1Code.GDShieldObjects1);
 {gdjs.evtTools.runtimeScene.setTimeScale(runtimeScene, 0);
@@ -713,6 +716,9 @@ gdjs.copyArray(runtimeScene.getObjects("Shield"), gdjs.Level1Code.GDShieldObject
 }
 }{for(var i = 0, len = gdjs.Level1Code.GDBulletObjects1.length ;i < len;++i) {
     gdjs.Level1Code.GDBulletObjects1[i].deleteFromScene(runtimeScene);
+}
+}{for(var i = 0, len = gdjs.Level1Code.GDGameOverObjects1.length ;i < len;++i) {
+    gdjs.Level1Code.GDGameOverObjects1[i].setString("Game Over!\nPress 'R' to restart");
 }
 }}
 
@@ -742,7 +748,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition1IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7992388);
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7938316);
 }
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
@@ -777,7 +783,11 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(
 gdjs.Level1Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(0)) > 0;
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("GameOver"), gdjs.Level1Code.GDGameOverObjects1);
 {gdjs.evtTools.runtimeScene.setTimeScale(runtimeScene, 1);
+}{for(var i = 0, len = gdjs.Level1Code.GDGameOverObjects1.length ;i < len;++i) {
+    gdjs.Level1Code.GDGameOverObjects1[i].setString("");
+}
 }}
 
 }
@@ -793,7 +803,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition1IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7994668);
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7940852);
 }
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
@@ -845,7 +855,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition1IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7997596);
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7941852);
 }
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
@@ -865,7 +875,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition1IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7998428);
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7944612);
 }
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
@@ -923,7 +933,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition1IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8001196);
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7947380);
 }
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
@@ -945,7 +955,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition1IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8002084);
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7948268);
 }
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
@@ -967,7 +977,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtim
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 {gdjs.Level1Code.conditionTrue_1 = gdjs.Level1Code.condition1IsTrue_0;
-gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8002996);
+gdjs.Level1Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(7949180);
 }
 }}
 if (gdjs.Level1Code.condition1IsTrue_0.val) {
@@ -996,6 +1006,8 @@ gdjs.Level1Code.GDShieldObjects1.length = 0;
 gdjs.Level1Code.GDShieldObjects2.length = 0;
 gdjs.Level1Code.GDEnemy_95ShootObjects1.length = 0;
 gdjs.Level1Code.GDEnemy_95ShootObjects2.length = 0;
+gdjs.Level1Code.GDGameOverObjects1.length = 0;
+gdjs.Level1Code.GDGameOverObjects2.length = 0;
 
 gdjs.Level1Code.eventsList0(runtimeScene);
 return;
