@@ -43,7 +43,7 @@ gdjs.Level1Code.mapOfGDgdjs_46Level1Code_46GDEnemyObjects1Objects = Hashtable.ne
 gdjs.Level1Code.condition0IsTrue_0.val = false;
 gdjs.Level1Code.condition1IsTrue_0.val = false;
 {
-gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 1, "EnemyCreation");
+gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.5, "EnemyCreation");
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 gdjs.Level1Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(1)) != 1;
@@ -87,7 +87,7 @@ gdjs.Level1Code.condition0IsTrue_0.val = false;
 gdjs.Level1Code.condition1IsTrue_0.val = false;
 gdjs.Level1Code.condition2IsTrue_0.val = false;
 {
-gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 2, "Eshoot");
+gdjs.Level1Code.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 1.1, "Eshoot");
 }if ( gdjs.Level1Code.condition0IsTrue_0.val ) {
 {
 gdjs.Level1Code.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getVariables().getFromIndex(1)) != 1;
