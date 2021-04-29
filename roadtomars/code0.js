@@ -110,7 +110,7 @@ gdjs.IntroCode.GDPlayerObjects1.length = 0;
 {gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.IntroCode.mapOfGDgdjs_46IntroCode_46GDPlayerObjects1Objects, 335, 290, "");
 }{runtimeScene.getVariables().getFromIndex(1).setNumber(1);
 }{gdjs.evtTools.sound.preloadMusic(runtimeScene, "Assassin.mp3");
-}{gdjs.evtTools.sound.playMusic(runtimeScene, "Assassin.mp3", true, 10, 1);
+}{gdjs.evtTools.sound.playMusic(runtimeScene, "Assassin.mp3", true, 11, 1);
 }}
 
 }
@@ -336,7 +336,7 @@ gdjs.IntroCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.IntroCode.condition0IsTrue_0.val ) {
 {
 {gdjs.IntroCode.conditionTrue_1 = gdjs.IntroCode.condition1IsTrue_0;
-gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10661180);
+gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10766164);
 }
 }}
 if (gdjs.IntroCode.condition1IsTrue_0.val) {
@@ -358,7 +358,7 @@ gdjs.IntroCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.IntroCode.condition0IsTrue_0.val ) {
 {
 {gdjs.IntroCode.conditionTrue_1 = gdjs.IntroCode.condition1IsTrue_0;
-gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10662132);
+gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10767116);
 }
 }}
 if (gdjs.IntroCode.condition1IsTrue_0.val) {
@@ -366,7 +366,7 @@ gdjs.copyArray(runtimeScene.getObjects("Welcome2"), gdjs.IntroCode.GDWelcome2Obj
 gdjs.IntroCode.GDEnemyObjects1.length = 0;
 
 {for(var i = 0, len = gdjs.IntroCode.GDWelcome2Objects1.length ;i < len;++i) {
-    gdjs.IntroCode.GDWelcome2Objects1[i].setBBText("[b][outline=red][shadow=red]\nBe careful not to get hit by Asteroids! Shoot them[/shadow] [/outline] [/b]");
+    gdjs.IntroCode.GDWelcome2Objects1[i].setBBText("[b][outline=red][shadow=red]\nBe careful not to get hit by Asteroids!\nShoot them[/shadow] [/outline] [/b]");
 }
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.IntroCode.mapOfGDgdjs_46IntroCode_46GDEnemyObjects1Objects, 335, 290, "");
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.IntroCode.mapOfGDgdjs_46IntroCode_46GDEnemyObjects1Objects, 535, 290, "");
@@ -387,7 +387,7 @@ gdjs.IntroCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.IntroCode.condition0IsTrue_0.val ) {
 {
 {gdjs.IntroCode.conditionTrue_1 = gdjs.IntroCode.condition1IsTrue_0;
-gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10664132);
+gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10769116);
 }
 }}
 if (gdjs.IntroCode.condition1IsTrue_0.val) {
@@ -409,7 +409,7 @@ gdjs.IntroCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.IntroCode.condition0IsTrue_0.val ) {
 {
 {gdjs.IntroCode.conditionTrue_1 = gdjs.IntroCode.condition1IsTrue_0;
-gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10665036);
+gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10770020);
 }
 }}
 if (gdjs.IntroCode.condition1IsTrue_0.val) {
@@ -467,7 +467,7 @@ gdjs.IntroCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.IntroCode.condition0IsTrue_0.val ) {
 {
 {gdjs.IntroCode.conditionTrue_1 = gdjs.IntroCode.condition1IsTrue_0;
-gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10668932);
+gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10773916);
 }
 }}
 if (gdjs.IntroCode.condition1IsTrue_0.val) {
@@ -489,7 +489,7 @@ gdjs.IntroCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.IntroCode.condition0IsTrue_0.val ) {
 {
 {gdjs.IntroCode.conditionTrue_1 = gdjs.IntroCode.condition1IsTrue_0;
-gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10670956);
+gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10775940);
 }
 }}
 if (gdjs.IntroCode.condition1IsTrue_0.val) {
@@ -565,7 +565,7 @@ gdjs.IntroCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.IntroCode.condition0IsTrue_0.val ) {
 {
 {gdjs.IntroCode.conditionTrue_1 = gdjs.IntroCode.condition1IsTrue_0;
-gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10675668);
+gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10780652);
 }
 }}
 if (gdjs.IntroCode.condition1IsTrue_0.val) {
@@ -573,7 +573,7 @@ gdjs.copyArray(runtimeScene.getObjects("Welcome2"), gdjs.IntroCode.GDWelcome2Obj
 gdjs.IntroCode.GDLethalSpaceShipObjects1.length = 0;
 
 {for(var i = 0, len = gdjs.IntroCode.GDWelcome2Objects1.length ;i < len;++i) {
-    gdjs.IntroCode.GDWelcome2Objects1[i].setBBText("\n[b][outline=red][shadow=red]\nThis kind of Enemy if hit destroys everything around but decreases also your life\n[/shadow] [/outline] [/b]\n");
+    gdjs.IntroCode.GDWelcome2Objects1[i].setBBText("\n[b][outline=red][shadow=red]\nThis kind of enemy if hit destroys everything around but decreases also your life\n[/shadow] [/outline] [/b]\n");
 }
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.IntroCode.mapOfGDgdjs_46IntroCode_46GDLethalSpaceShipObjects1Objects, 335, 400, "");
 }}
@@ -591,7 +591,7 @@ gdjs.IntroCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.IntroCode.condition0IsTrue_0.val ) {
 {
 {gdjs.IntroCode.conditionTrue_1 = gdjs.IntroCode.condition1IsTrue_0;
-gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10677908);
+gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10782892);
 }
 }}
 if (gdjs.IntroCode.condition1IsTrue_0.val) {
@@ -613,7 +613,7 @@ gdjs.IntroCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.IntroCode.condition0IsTrue_0.val ) {
 {
 {gdjs.IntroCode.conditionTrue_1 = gdjs.IntroCode.condition1IsTrue_0;
-gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10678860);
+gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10783844);
 }
 }}
 if (gdjs.IntroCode.condition1IsTrue_0.val) {
@@ -622,7 +622,7 @@ gdjs.copyArray(runtimeScene.getObjects("Welcome2"), gdjs.IntroCode.GDWelcome2Obj
 gdjs.IntroCode.GDShieldObjects1.length = 0;
 
 {for(var i = 0, len = gdjs.IntroCode.GDWelcome2Objects1.length ;i < len;++i) {
-    gdjs.IntroCode.GDWelcome2Objects1[i].setBBText("\n[b][outline=red][shadow=red]\nyou can create shields to protect\n[/shadow] [/outline] [/b]\n");
+    gdjs.IntroCode.GDWelcome2Objects1[i].setBBText("\n[b][outline=red][shadow=red]\nYou can create shields to protect your ship\n[/shadow] [/outline] [/b]\n");
 }
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.IntroCode.mapOfGDgdjs_46IntroCode_46GDShieldObjects1Objects, (( gdjs.IntroCode.GDPlayerObjects1.length === 0 ) ? 0 :gdjs.IntroCode.GDPlayerObjects1[0].getPointX("")), ((( gdjs.IntroCode.GDPlayerObjects1.length === 0 ) ? 0 :gdjs.IntroCode.GDPlayerObjects1[0].getPointY("")) - 40), "");
 }}
@@ -640,7 +640,7 @@ gdjs.IntroCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.IntroCode.condition0IsTrue_0.val ) {
 {
 {gdjs.IntroCode.conditionTrue_1 = gdjs.IntroCode.condition1IsTrue_0;
-gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10680204);
+gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10785188);
 }
 }}
 if (gdjs.IntroCode.condition1IsTrue_0.val) {
@@ -662,7 +662,7 @@ gdjs.IntroCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.IntroCode.condition0IsTrue_0.val ) {
 {
 {gdjs.IntroCode.conditionTrue_1 = gdjs.IntroCode.condition1IsTrue_0;
-gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10681700);
+gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10786684);
 }
 }}
 if (gdjs.IntroCode.condition1IsTrue_0.val) {
@@ -672,7 +672,7 @@ gdjs.IntroCode.GDAlienBallObjects1.length = 0;
 gdjs.IntroCode.GDAlienBoostObjects1.length = 0;
 
 {for(var i = 0, len = gdjs.IntroCode.GDWelcome2Objects1.length ;i < len;++i) {
-    gdjs.IntroCode.GDWelcome2Objects1[i].setBBText("\n[b][outline=red][shadow=red]\nAllies send you bonus to increase your skills, touch/shoot them\n[/shadow] [/outline] [/b]\n");
+    gdjs.IntroCode.GDWelcome2Objects1[i].setBBText("\n[b][outline=red][shadow=red]\nAllies send you bonus to increase your skills,\ntouch/shoot them\n[/shadow] [/outline] [/b]\n");
 }
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.IntroCode.mapOfGDgdjs_46IntroCode_46GDAlienBallObjects1Objects, 235, 350, "");
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.IntroCode.mapOfGDgdjs_46IntroCode_46GDAlienBoostObjects1Objects, 500, 350, "");
@@ -691,7 +691,7 @@ gdjs.IntroCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.IntroCode.condition0IsTrue_0.val ) {
 {
 {gdjs.IntroCode.conditionTrue_1 = gdjs.IntroCode.condition1IsTrue_0;
-gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10683268);
+gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10788252);
 }
 }}
 if (gdjs.IntroCode.condition1IsTrue_0.val) {
@@ -699,7 +699,7 @@ gdjs.copyArray(runtimeScene.getObjects("Welcome2"), gdjs.IntroCode.GDWelcome2Obj
 gdjs.IntroCode.GDAlienObjects1.length = 0;
 
 {for(var i = 0, len = gdjs.IntroCode.GDWelcome2Objects1.length ;i < len;++i) {
-    gdjs.IntroCode.GDWelcome2Objects1[i].setBBText("\n[b][outline=red][shadow=red]\nBosses will try to stop you\n[/shadow] [/outline] [/b]\n");
+    gdjs.IntroCode.GDWelcome2Objects1[i].setBBText("\n[b][outline=red][shadow=red]\nBosses will try to stop you!!\n[/shadow] [/outline] [/b]\n");
 }
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.IntroCode.mapOfGDgdjs_46IntroCode_46GDAlienObjects1Objects, 400, 400, "");
 }}
@@ -778,13 +778,13 @@ gdjs.IntroCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.IntroCode.condition0IsTrue_0.val ) {
 {
 {gdjs.IntroCode.conditionTrue_1 = gdjs.IntroCode.condition1IsTrue_0;
-gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10676604);
+gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10781588);
 }
 }}
 if (gdjs.IntroCode.condition1IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Welcome2"), gdjs.IntroCode.GDWelcome2Objects1);
 {for(var i = 0, len = gdjs.IntroCode.GDWelcome2Objects1.length ;i < len;++i) {
-    gdjs.IntroCode.GDWelcome2Objects1[i].setBBText("\n[b][outline=red][shadow=red]\nHighest Scores! Try to beat them:\n[/shadow] [/outline] [/b]\n");
+    gdjs.IntroCode.GDWelcome2Objects1[i].setBBText("\n[b][outline=red][shadow=red]\nHighest Scores! \nTry to beat them:\n[/shadow] [/outline] [/b]\n");
 }
 }}
 
@@ -818,7 +818,7 @@ gdjs.IntroCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.IntroCode.condition0IsTrue_0.val ) {
 {
 {gdjs.IntroCode.conditionTrue_1 = gdjs.IntroCode.condition1IsTrue_0;
-gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10671172);
+gdjs.IntroCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10776156);
 }
 }}
 if (gdjs.IntroCode.condition1IsTrue_0.val) {

@@ -149,7 +149,7 @@ gdjs.PlayerSelectionCode.mapOfGDgdjs_46PlayerSelectionCode_46GDSinglePlayerSelec
 gdjs.PlayerSelectionCode.condition0IsTrue_0.val = false;
 {
 {gdjs.PlayerSelectionCode.conditionTrue_1 = gdjs.PlayerSelectionCode.condition0IsTrue_0;
-gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10647852);
+gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10752836);
 }
 }if (gdjs.PlayerSelectionCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.PlayerSelectionCode.GDSinglePlayerSelectionObjects1, gdjs.PlayerSelectionCode.GDSinglePlayerSelectionObjects2);
@@ -172,7 +172,7 @@ gdjs.PlayerSelectionCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseBut
 }if ( gdjs.PlayerSelectionCode.condition0IsTrue_0.val ) {
 {
 {gdjs.PlayerSelectionCode.conditionTrue_1 = gdjs.PlayerSelectionCode.condition1IsTrue_0;
-gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10627132);
+gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10732116);
 }
 }}
 if (gdjs.PlayerSelectionCode.condition1IsTrue_0.val) {
@@ -196,7 +196,7 @@ gdjs.PlayerSelectionCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseBut
 }if ( gdjs.PlayerSelectionCode.condition0IsTrue_0.val ) {
 {
 {gdjs.PlayerSelectionCode.conditionTrue_1 = gdjs.PlayerSelectionCode.condition1IsTrue_0;
-gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10640788);
+gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10745772);
 }
 }}
 if (gdjs.PlayerSelectionCode.condition1IsTrue_0.val) {
@@ -223,7 +223,7 @@ gdjs.copyArray(runtimeScene.getObjects("ConfirmButton"), gdjs.PlayerSelectionCod
 gdjs.PlayerSelectionCode.condition0IsTrue_0.val = false;
 {
 {gdjs.PlayerSelectionCode.conditionTrue_1 = gdjs.PlayerSelectionCode.condition0IsTrue_0;
-gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10689796);
+gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10794780);
 }
 }if (gdjs.PlayerSelectionCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.PlayerSelectionCode.GDMultiPlayerObjects1, gdjs.PlayerSelectionCode.GDMultiPlayerObjects2);
@@ -246,7 +246,7 @@ gdjs.PlayerSelectionCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseBut
 }if ( gdjs.PlayerSelectionCode.condition0IsTrue_0.val ) {
 {
 {gdjs.PlayerSelectionCode.conditionTrue_1 = gdjs.PlayerSelectionCode.condition1IsTrue_0;
-gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10690780);
+gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10795764);
 }
 }}
 if (gdjs.PlayerSelectionCode.condition1IsTrue_0.val) {
@@ -270,7 +270,7 @@ gdjs.PlayerSelectionCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseBut
 }if ( gdjs.PlayerSelectionCode.condition0IsTrue_0.val ) {
 {
 {gdjs.PlayerSelectionCode.conditionTrue_1 = gdjs.PlayerSelectionCode.condition1IsTrue_0;
-gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10691820);
+gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10796804);
 }
 }}
 if (gdjs.PlayerSelectionCode.condition1IsTrue_0.val) {
@@ -297,7 +297,7 @@ gdjs.copyArray(runtimeScene.getObjects("ConfirmButton"), gdjs.PlayerSelectionCod
 gdjs.PlayerSelectionCode.condition0IsTrue_0.val = false;
 {
 {gdjs.PlayerSelectionCode.conditionTrue_1 = gdjs.PlayerSelectionCode.condition0IsTrue_0;
-gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10694884);
+gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10799868);
 }
 }if (gdjs.PlayerSelectionCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.PlayerSelectionCode.GDConfirmButtonObjects1, gdjs.PlayerSelectionCode.GDConfirmButtonObjects2);
@@ -320,7 +320,7 @@ gdjs.PlayerSelectionCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseBut
 }if ( gdjs.PlayerSelectionCode.condition0IsTrue_0.val ) {
 {
 {gdjs.PlayerSelectionCode.conditionTrue_1 = gdjs.PlayerSelectionCode.condition1IsTrue_0;
-gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10695836);
+gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10800820);
 }
 }}
 if (gdjs.PlayerSelectionCode.condition1IsTrue_0.val) {
@@ -348,7 +348,7 @@ gdjs.PlayerSelectionCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariab
 }if ( gdjs.PlayerSelectionCode.condition1IsTrue_0.val ) {
 {
 {gdjs.PlayerSelectionCode.conditionTrue_1 = gdjs.PlayerSelectionCode.condition2IsTrue_0;
-gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10696836);
+gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10801820);
 }
 }}
 }
@@ -378,7 +378,7 @@ gdjs.PlayerSelectionCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariab
 }if ( gdjs.PlayerSelectionCode.condition1IsTrue_0.val ) {
 {
 {gdjs.PlayerSelectionCode.conditionTrue_1 = gdjs.PlayerSelectionCode.condition2IsTrue_0;
-gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10698284);
+gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10803268);
 }
 }}
 }
@@ -404,6 +404,7 @@ gdjs.PlayerSelectionCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sce
 }if (gdjs.PlayerSelectionCode.condition0IsTrue_0.val) {
 {runtimeScene.getGame().getVariables().getFromIndex(12).setNumber(0);
 }{runtimeScene.getGame().getVariables().getFromIndex(14).setNumber(0);
+}{gdjs.evtTools.sound.playMusic(runtimeScene, "Dark-Things.mp3", true, 11, 1);
 }}
 
 }
@@ -467,7 +468,7 @@ gdjs.PlayerSelectionCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnOb
 }if ( gdjs.PlayerSelectionCode.condition0IsTrue_0.val ) {
 {
 {gdjs.PlayerSelectionCode.conditionTrue_1 = gdjs.PlayerSelectionCode.condition1IsTrue_0;
-gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10641420);
+gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10746404);
 }
 }}
 if (gdjs.PlayerSelectionCode.condition1IsTrue_0.val) {
@@ -507,7 +508,7 @@ gdjs.PlayerSelectionCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnOb
 }if ( gdjs.PlayerSelectionCode.condition0IsTrue_0.val ) {
 {
 {gdjs.PlayerSelectionCode.conditionTrue_1 = gdjs.PlayerSelectionCode.condition1IsTrue_0;
-gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10693292);
+gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10798276);
 }
 }}
 if (gdjs.PlayerSelectionCode.condition1IsTrue_0.val) {
@@ -547,7 +548,7 @@ gdjs.PlayerSelectionCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnOb
 }if ( gdjs.PlayerSelectionCode.condition0IsTrue_0.val ) {
 {
 {gdjs.PlayerSelectionCode.conditionTrue_1 = gdjs.PlayerSelectionCode.condition1IsTrue_0;
-gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10699748);
+gdjs.PlayerSelectionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10804732);
 }
 }}
 if (gdjs.PlayerSelectionCode.condition1IsTrue_0.val) {
