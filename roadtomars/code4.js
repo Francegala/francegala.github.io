@@ -145,7 +145,7 @@ gdjs.LevelCode.condition4IsTrue_1 = {val:false};
 gdjs.LevelCode.condition5IsTrue_1 = {val:false};
 
 
-gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBallObjects1Objects = Hashtable.newFrom({"AlienBall": gdjs.LevelCode.GDAlienBallObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBallObjects1Objects = Hashtable.newFrom({"AlienBall": gdjs.LevelCode.GDAlienBallObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBallObjects1Objects = Hashtable.newFrom({"AlienBall": gdjs.LevelCode.GDAlienBallObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBallObjects1Objects = Hashtable.newFrom({"AlienBall": gdjs.LevelCode.GDAlienBallObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBallObjects1Objects = Hashtable.newFrom({"AlienBall": gdjs.LevelCode.GDAlienBallObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBoostObjects1Objects = Hashtable.newFrom({"AlienBoost": gdjs.LevelCode.GDAlienBoostObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBoostObjects1Objects = Hashtable.newFrom({"AlienBoost": gdjs.LevelCode.GDAlienBoostObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBoostObjects1Objects = Hashtable.newFrom({"AlienBoost": gdjs.LevelCode.GDAlienBoostObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBoostObjects1Objects = Hashtable.newFrom({"AlienBoost": gdjs.LevelCode.GDAlienBoostObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBoostObjects1Objects = Hashtable.newFrom({"AlienBoost": gdjs.LevelCode.GDAlienBoostObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBoostObjects1Objects = Hashtable.newFrom({"AlienBoost": gdjs.LevelCode.GDAlienBoostObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDNameEntryObjects1Objects = Hashtable.newFrom({"NameEntry": gdjs.LevelCode.GDNameEntryObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDStartTypingObjects1Objects = Hashtable.newFrom({"StartTyping": gdjs.LevelCode.GDStartTypingObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDusernameObjects1Objects = Hashtable.newFrom({"username": gdjs.LevelCode.GDusernameObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDConfirmButtonObjects1Objects = Hashtable.newFrom({"ConfirmButton": gdjs.LevelCode.GDConfirmButtonObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDConfirmButtonObjects1Objects = Hashtable.newFrom({"ConfirmButton": gdjs.LevelCode.GDConfirmButtonObjects1});gdjs.LevelCode.eventsList0 = function(runtimeScene) {
+gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDLethalSpaceShipObjects1Objects = Hashtable.newFrom({"LethalSpaceShip": gdjs.LevelCode.GDLethalSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBallObjects1Objects = Hashtable.newFrom({"AlienBall": gdjs.LevelCode.GDAlienBallObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBallObjects1Objects = Hashtable.newFrom({"AlienBall": gdjs.LevelCode.GDAlienBallObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBallObjects1Objects = Hashtable.newFrom({"AlienBall": gdjs.LevelCode.GDAlienBallObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBallObjects1Objects = Hashtable.newFrom({"AlienBall": gdjs.LevelCode.GDAlienBallObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBallObjects1Objects = Hashtable.newFrom({"AlienBall": gdjs.LevelCode.GDAlienBallObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBoostObjects1Objects = Hashtable.newFrom({"AlienBoost": gdjs.LevelCode.GDAlienBoostObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBoostObjects1Objects = Hashtable.newFrom({"AlienBoost": gdjs.LevelCode.GDAlienBoostObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBoostObjects1Objects = Hashtable.newFrom({"AlienBoost": gdjs.LevelCode.GDAlienBoostObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBoostObjects1Objects = Hashtable.newFrom({"AlienBoost": gdjs.LevelCode.GDAlienBoostObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBoostObjects1Objects = Hashtable.newFrom({"AlienBoost": gdjs.LevelCode.GDAlienBoostObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAlienBoostObjects1Objects = Hashtable.newFrom({"AlienBoost": gdjs.LevelCode.GDAlienBoostObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDExplosionObjects1Objects = Hashtable.newFrom({"Explosion": gdjs.LevelCode.GDExplosionObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBlackSmokeObjects1Objects = Hashtable.newFrom({"BlackSmoke": gdjs.LevelCode.GDBlackSmokeObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDShieldObjects1Objects = Hashtable.newFrom({"Shield": gdjs.LevelCode.GDShieldObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDBulletObjects1Objects = Hashtable.newFrom({"Bullet": gdjs.LevelCode.GDBulletObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.LevelCode.GDPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemy_9595ShootObjects1Objects = Hashtable.newFrom({"Enemy_Shoot": gdjs.LevelCode.GDEnemy_95ShootObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDPlayer2Objects1Objects = Hashtable.newFrom({"Player2": gdjs.LevelCode.GDPlayer2Objects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newFrom({"Enemy": gdjs.LevelCode.GDEnemyObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects = Hashtable.newFrom({"EnemyToPlayer": gdjs.LevelCode.GDEnemyToPlayerObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects = Hashtable.newFrom({"SpaceShip": gdjs.LevelCode.GDSpaceShipObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects = Hashtable.newFrom({"Asteroids": gdjs.LevelCode.GDAsteroidsObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDNameEntryObjects1Objects = Hashtable.newFrom({"NameEntry": gdjs.LevelCode.GDNameEntryObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDStartTypingObjects1Objects = Hashtable.newFrom({"StartTyping": gdjs.LevelCode.GDStartTypingObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDusernameObjects1Objects = Hashtable.newFrom({"username": gdjs.LevelCode.GDusernameObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDConfirmButtonObjects1Objects = Hashtable.newFrom({"ConfirmButton": gdjs.LevelCode.GDConfirmButtonObjects1});gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDConfirmButtonObjects1Objects = Hashtable.newFrom({"ConfirmButton": gdjs.LevelCode.GDConfirmButtonObjects1});gdjs.LevelCode.eventsList0 = function(runtimeScene) {
 
 {
 
@@ -153,7 +153,7 @@ gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects = Hashtable.newF
 gdjs.LevelCode.condition0IsTrue_0.val = false;
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition0IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11019684);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11038988);
 }
 }if (gdjs.LevelCode.condition0IsTrue_0.val) {
 gdjs.copyArray(gdjs.LevelCode.GDConfirmButtonObjects1, gdjs.LevelCode.GDConfirmButtonObjects2);
@@ -176,7 +176,7 @@ gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPressed
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition1IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11020636);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11039940);
 }
 }}
 if (gdjs.LevelCode.condition1IsTrue_0.val) {
@@ -200,7 +200,7 @@ gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonRelease
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition1IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11021676);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11040980);
 }
 }}
 if (gdjs.LevelCode.condition1IsTrue_0.val) {
@@ -236,7 +236,7 @@ gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtime
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition1IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11031732);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11051036);
 }
 }}
 if (gdjs.LevelCode.condition1IsTrue_0.val) {
@@ -265,7 +265,7 @@ gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtime
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition1IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11032908);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11052212);
 }
 }}
 if (gdjs.LevelCode.condition1IsTrue_0.val) {
@@ -295,7 +295,7 @@ gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtime
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition1IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11034076);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11053380);
 }
 }}
 if (gdjs.LevelCode.condition1IsTrue_0.val) {
@@ -315,7 +315,7 @@ gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtime
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition1IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11035548);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11054852);
 }
 }}
 if (gdjs.LevelCode.condition1IsTrue_0.val) {
@@ -339,13 +339,18 @@ if (gdjs.LevelCode.condition1IsTrue_0.val) {
 
 gdjs.LevelCode.condition0IsTrue_0.val = false;
 gdjs.LevelCode.condition1IsTrue_0.val = false;
+gdjs.LevelCode.condition2IsTrue_0.val = false;
 {
 gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.5, "EnemyCreation");
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
 {
 gdjs.LevelCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(5)) != 1;
+}if ( gdjs.LevelCode.condition1IsTrue_0.val ) {
+{
+gdjs.LevelCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(15)) == 0;
 }}
-if (gdjs.LevelCode.condition1IsTrue_0.val) {
+}
+if (gdjs.LevelCode.condition2IsTrue_0.val) {
 gdjs.LevelCode.GDEnemyObjects1.length = 0;
 
 {gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects, gdjs.random(750), -(50), "");
@@ -361,6 +366,7 @@ gdjs.LevelCode.GDEnemyObjects1.length = 0;
 gdjs.LevelCode.condition0IsTrue_0.val = false;
 gdjs.LevelCode.condition1IsTrue_0.val = false;
 gdjs.LevelCode.condition2IsTrue_0.val = false;
+gdjs.LevelCode.condition3IsTrue_0.val = false;
 {
 gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.7, "AsteroidCreation");
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
@@ -369,9 +375,13 @@ gdjs.LevelCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition1IsTrue_0.val ) {
 {
 gdjs.LevelCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(5)) != 1;
+}if ( gdjs.LevelCode.condition2IsTrue_0.val ) {
+{
+gdjs.LevelCode.condition3IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(15)) == 0;
 }}
 }
-if (gdjs.LevelCode.condition2IsTrue_0.val) {
+}
+if (gdjs.LevelCode.condition3IsTrue_0.val) {
 gdjs.LevelCode.GDAsteroidsObjects1.length = 0;
 
 {gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects, gdjs.random(750), -(50), "");
@@ -387,6 +397,7 @@ gdjs.LevelCode.GDAsteroidsObjects1.length = 0;
 gdjs.LevelCode.condition0IsTrue_0.val = false;
 gdjs.LevelCode.condition1IsTrue_0.val = false;
 gdjs.LevelCode.condition2IsTrue_0.val = false;
+gdjs.LevelCode.condition3IsTrue_0.val = false;
 {
 gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 0.9, "EnemyCreationLevel");
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
@@ -395,9 +406,13 @@ gdjs.LevelCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition1IsTrue_0.val ) {
 {
 gdjs.LevelCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)) > 10;
+}if ( gdjs.LevelCode.condition2IsTrue_0.val ) {
+{
+gdjs.LevelCode.condition3IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(15)) == 0;
 }}
 }
-if (gdjs.LevelCode.condition2IsTrue_0.val) {
+}
+if (gdjs.LevelCode.condition3IsTrue_0.val) {
 gdjs.LevelCode.GDEnemyObjects1.length = 0;
 
 {gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects, gdjs.random(750), -(50), "");
@@ -451,6 +466,7 @@ gdjs.copyArray(runtimeScene.getObjects("LethalSpaceShip"), gdjs.LevelCode.GDLeth
 gdjs.LevelCode.condition0IsTrue_0.val = false;
 gdjs.LevelCode.condition1IsTrue_0.val = false;
 gdjs.LevelCode.condition2IsTrue_0.val = false;
+gdjs.LevelCode.condition3IsTrue_0.val = false;
 {
 gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 1, "EnemyToPlayerCreation");
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
@@ -459,9 +475,13 @@ gdjs.LevelCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition1IsTrue_0.val ) {
 {
 gdjs.LevelCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(5)) != 1;
+}if ( gdjs.LevelCode.condition2IsTrue_0.val ) {
+{
+gdjs.LevelCode.condition3IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(15)) == 0;
 }}
 }
-if (gdjs.LevelCode.condition2IsTrue_0.val) {
+}
+if (gdjs.LevelCode.condition3IsTrue_0.val) {
 gdjs.LevelCode.GDEnemyToPlayerObjects1.length = 0;
 
 {gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects, gdjs.random(750), -(50), "");
@@ -480,6 +500,7 @@ gdjs.LevelCode.GDEnemyToPlayerObjects1.length = 0;
 gdjs.LevelCode.condition0IsTrue_0.val = false;
 gdjs.LevelCode.condition1IsTrue_0.val = false;
 gdjs.LevelCode.condition2IsTrue_0.val = false;
+gdjs.LevelCode.condition3IsTrue_0.val = false;
 {
 gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 1, "EnemyToPlayerCreation");
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
@@ -488,9 +509,13 @@ gdjs.LevelCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition1IsTrue_0.val ) {
 {
 gdjs.LevelCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(5)) != 1;
+}if ( gdjs.LevelCode.condition2IsTrue_0.val ) {
+{
+gdjs.LevelCode.condition3IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(15)) == 0;
 }}
 }
-if (gdjs.LevelCode.condition2IsTrue_0.val) {
+}
+if (gdjs.LevelCode.condition3IsTrue_0.val) {
 gdjs.LevelCode.GDEnemyToPlayerObjects1.length = 0;
 
 {gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects, gdjs.random(750), -(50), "");
@@ -509,6 +534,7 @@ gdjs.LevelCode.GDEnemyToPlayerObjects1.length = 0;
 gdjs.LevelCode.condition0IsTrue_0.val = false;
 gdjs.LevelCode.condition1IsTrue_0.val = false;
 gdjs.LevelCode.condition2IsTrue_0.val = false;
+gdjs.LevelCode.condition3IsTrue_0.val = false;
 {
 gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTime(runtimeScene, 1, "SpaceShipCreation");
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
@@ -517,9 +543,13 @@ gdjs.LevelCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition1IsTrue_0.val ) {
 {
 gdjs.LevelCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(5)) != 1;
+}if ( gdjs.LevelCode.condition2IsTrue_0.val ) {
+{
+gdjs.LevelCode.condition3IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(15)) == 0;
 }}
 }
-if (gdjs.LevelCode.condition2IsTrue_0.val) {
+}
+if (gdjs.LevelCode.condition3IsTrue_0.val) {
 gdjs.LevelCode.GDSpaceShipObjects1.length = 0;
 
 {gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects, gdjs.random(750), -(50), "");
@@ -1605,7 +1635,7 @@ gdjs.LevelCode.condition3IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition3IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition4IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10939444);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10957684);
 }
 }}
 }
@@ -1641,7 +1671,7 @@ gdjs.LevelCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition2IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition3IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10941100);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10959340);
 }
 }}
 }
@@ -1680,7 +1710,7 @@ gdjs.LevelCode.condition3IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition3IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition4IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10943052);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10961292);
 }
 }}
 }
@@ -2900,6 +2930,7 @@ gdjs.copyArray(runtimeScene.getObjects("BGameObject"), gdjs.LevelCode.GDBGameObj
 }{runtimeScene.getGame().getVariables().getFromIndex(3).setNumber(0);
 }{runtimeScene.getGame().getVariables().getFromIndex(5).setNumber(0);
 }{runtimeScene.getGame().getVariables().getFromIndex(4).setNumber(0);
+}{runtimeScene.getGame().getVariables().getFromIndex(15).setNumber(0);
 }{runtimeScene.getGame().getVariables().getFromIndex(6).setNumber(5);
 }{gdjs.evtTools.sound.unloadAllAudio(runtimeScene);
 }{gdjs.evtTools.sound.preloadMusic(runtimeScene, "The-Creeping-Blob.mp3");
@@ -2970,31 +3001,53 @@ gdjs.LevelCode.condition0IsTrue_0.val = false;
 {
 gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)) >= gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)) * 50;
 }if (gdjs.LevelCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("BGameObject"), gdjs.LevelCode.GDBGameObjectObjects1);
+{runtimeScene.getGame().getVariables().getFromIndex(15).setNumber(1);
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Asteroids"), gdjs.LevelCode.GDAsteroidsObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Enemy"), gdjs.LevelCode.GDEnemyObjects1);
 gdjs.copyArray(runtimeScene.getObjects("EnemyToPlayer"), gdjs.LevelCode.GDEnemyToPlayerObjects1);
-gdjs.copyArray(runtimeScene.getObjects("Enemy_Shoot"), gdjs.LevelCode.GDEnemy_95ShootObjects1);
-gdjs.copyArray(runtimeScene.getObjects("LethalSpaceShip"), gdjs.LevelCode.GDLethalSpaceShipObjects1);
-{for(var i = 0, len = gdjs.LevelCode.GDEnemyObjects1.length ;i < len;++i) {
-    gdjs.LevelCode.GDEnemyObjects1[i].deleteFromScene(runtimeScene);
+gdjs.copyArray(runtimeScene.getObjects("SpaceShip"), gdjs.LevelCode.GDSpaceShipObjects1);
+
+gdjs.LevelCode.condition0IsTrue_0.val = false;
+gdjs.LevelCode.condition1IsTrue_0.val = false;
+gdjs.LevelCode.condition2IsTrue_0.val = false;
+gdjs.LevelCode.condition3IsTrue_0.val = false;
+gdjs.LevelCode.condition4IsTrue_0.val = false;
+{
+gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(15)) == 1;
+}if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
+{
+gdjs.LevelCode.condition1IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount(gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyObjects1Objects) == 0;
+}if ( gdjs.LevelCode.condition1IsTrue_0.val ) {
+{
+gdjs.LevelCode.condition2IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount(gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDEnemyToPlayerObjects1Objects) == 0;
+}if ( gdjs.LevelCode.condition2IsTrue_0.val ) {
+{
+gdjs.LevelCode.condition3IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount(gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDSpaceShipObjects1Objects) == 0;
+}if ( gdjs.LevelCode.condition3IsTrue_0.val ) {
+{
+gdjs.LevelCode.condition4IsTrue_0.val = gdjs.evtTools.object.pickedObjectsCount(gdjs.LevelCode.mapOfGDgdjs_46LevelCode_46GDAsteroidsObjects1Objects) == 0;
+}}
 }
-}{for(var i = 0, len = gdjs.LevelCode.GDEnemyToPlayerObjects1.length ;i < len;++i) {
-    gdjs.LevelCode.GDEnemyToPlayerObjects1[i].deleteFromScene(runtimeScene);
 }
-}{for(var i = 0, len = gdjs.LevelCode.GDEnemy_95ShootObjects1.length ;i < len;++i) {
-    gdjs.LevelCode.GDEnemy_95ShootObjects1[i].deleteFromScene(runtimeScene);
 }
-}{for(var i = 0, len = gdjs.LevelCode.GDLethalSpaceShipObjects1.length ;i < len;++i) {
-    gdjs.LevelCode.GDLethalSpaceShipObjects1[i].deleteFromScene(runtimeScene);
-}
-}{runtimeScene.getGame().getVariables().getFromIndex(6).add(1);
-}{runtimeScene.getGame().getVariables().getFromIndex(0).add(2);
+if (gdjs.LevelCode.condition4IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("BGameObject"), gdjs.LevelCode.GDBGameObjectObjects1);
+{runtimeScene.getGame().getVariables().getFromIndex(6).add(1);
 }{runtimeScene.getGame().getVariables().getFromIndex(2).setNumber(0);
+}{runtimeScene.getGame().getVariables().getFromIndex(0).add(2);
+}{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "NewLevelTimer");
 }{for(var i = 0, len = gdjs.LevelCode.GDBGameObjectObjects1.length ;i < len;++i) {
     gdjs.LevelCode.GDBGameObjectObjects1[i].setBBText("[b][outline=red][shadow=red][align=center]\nGood Job!\nNew Level :)\n[/align]\n[/shadow] [/outline] [/b]");
 }
-}{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "NewLevelTimer");
 }{runtimeScene.getGame().getVariables().getFromIndex(1).add(1);
+}{runtimeScene.getGame().getVariables().getFromIndex(15).setNumber(0);
 }}
 
 }
@@ -3221,7 +3274,7 @@ gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition1IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11024004);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11043308);
 }
 }}
 if (gdjs.LevelCode.condition1IsTrue_0.val) {
@@ -3244,7 +3297,7 @@ gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition1IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11024772);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11044076);
 }
 }}
 if (gdjs.LevelCode.condition1IsTrue_0.val) {
@@ -3279,7 +3332,7 @@ gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtime
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition1IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11026772);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11046076);
 }
 }}
 if (gdjs.LevelCode.condition1IsTrue_0.val) {
@@ -3331,7 +3384,7 @@ gdjs.LevelCode.condition1IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtime
 }if ( gdjs.LevelCode.condition1IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition2IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11029204);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11048508);
 }
 }}
 }
@@ -3359,7 +3412,7 @@ gdjs.LevelCode.condition1IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtime
 }if ( gdjs.LevelCode.condition1IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition2IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11029804);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11049108);
 }
 }}
 }
@@ -3516,7 +3569,7 @@ gdjs.LevelCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition1IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition2IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11040116);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11059388);
 }
 }}
 }
@@ -3612,7 +3665,7 @@ gdjs.LevelCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition2IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition3IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11045420);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11064716);
 }
 }}
 }
@@ -3668,7 +3721,7 @@ gdjs.LevelCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition1IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition2IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11048268);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11067564);
 }
 }}
 }
@@ -3746,7 +3799,7 @@ gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition1IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11052060);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11071356);
 }
 }}
 if (gdjs.LevelCode.condition1IsTrue_0.val) {
@@ -3767,7 +3820,7 @@ gdjs.LevelCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition0IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition1IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11053092);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11072388);
 }
 }}
 if (gdjs.LevelCode.condition1IsTrue_0.val) {
@@ -3820,7 +3873,7 @@ gdjs.LevelCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition1IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition2IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11055644);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11074940);
 }
 }}
 }
@@ -3853,7 +3906,7 @@ gdjs.LevelCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition2IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition3IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11057204);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11076500);
 }
 }}
 }
@@ -3934,7 +3987,7 @@ gdjs.LevelCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition2IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition3IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11061604);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11080900);
 }
 }}
 }
@@ -3969,7 +4022,7 @@ gdjs.LevelCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition2IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition3IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11062940);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11082236);
 }
 }}
 }
@@ -4001,7 +4054,7 @@ gdjs.LevelCode.condition2IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition2IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition3IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11064156);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11083452);
 }
 }}
 }
@@ -4123,7 +4176,7 @@ gdjs.LevelCode.condition1IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(r
 }if ( gdjs.LevelCode.condition1IsTrue_0.val ) {
 {
 {gdjs.LevelCode.conditionTrue_1 = gdjs.LevelCode.condition2IsTrue_0;
-gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11069292);
+gdjs.LevelCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11088588);
 }
 }}
 }
